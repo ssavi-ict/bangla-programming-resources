@@ -98,6 +98,8 @@
 * [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm) 
 * [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [Digit DP](http://shakilcompetitiveprogramming.blogspot.nl/2015/09/digit-dp.html) 
+
 
 
 ##### সর্টিং
